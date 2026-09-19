@@ -2,7 +2,7 @@
 
 사용자 경험과 비즈니스 성과를 함께 만드는 4년차 iOS 개발자입니다.
 
-📄 [PDF로 보기 / 다운로드](./%EA%B9%80%EC%98%81%ED%98%84_iOS_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) · ✉️ glflakcm@gmail.com · 🔗 [github.com/ronick-grammer](https://github.com/ronick-grammer)
+📄 [PDF로 보기 / 다운로드](./%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB_iOS_%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf) · ✉️ glflakcm@gmail.com
 
 ---
 
